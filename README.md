@@ -193,6 +193,8 @@ technology.
 accessible to all.
 - Establish partnerships and integration with key electoral industry players to ensure the
 successful implementation of verifiable audit trails.
+- Conduct ongoing research and development to refine verifiable audit trail-based solutions and adapt them to the changing needs of electoral processes
+- Educate and raise awareness among voters about the importance of electoral verification and new technologies to promote informed and active participation in the democratic process 
 
 <HR>
 
