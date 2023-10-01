@@ -1,0 +1,53 @@
+AltHash University - Cohort 18/3
+
+Capstone Project for Blockchain Studies
+Team Members & Roles
+by 
+	
+    Amari Esmel Phillipe Arnaud - Paper author
+	Elizabeth Yetunde Abraham - Q&A
+	Gaius Paul Ekanem - 
+    Monique Finley - Project Lead
+	Odu, Stephen Anyaku III - Creative Lead 
+	
+    
+COHORT 18/3: CAPSTONE GROUP 2
+	
+
+
+
+
+Names of Utilities:
+	ID Token X & ID Voter X
+	IDTokenX & IDVoterX
+	Digital Thumbprint
+	Integral
+	
+
+Ticker
+	ID3X & IVTR
+	
+Image
+	https://
+	
+Token Supply
+	Limited?
+	Unlimted?	
+	
+Abstract
+	Short description of why - problem, solution, conclusion
+
+Summary
+	Expanded Abstract. Longer description of why - problem, solution, conclusion
+	
+Body - Content
+	The paper. Introduction. Problem [Research / Pain Points / Customer Discovery]. Solution [Research / Competitors / Market Fit]. Conclusion.
+	
+Disclaimers
+	None?
+	Some?
+	
+Conclusion
+	Findings resummarized.
+	
+	

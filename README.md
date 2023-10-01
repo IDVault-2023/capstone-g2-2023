@@ -4,8 +4,19 @@
 ## REDUCE VOTER FRAUD INEFFICIENCIES WITH VERIFIABLE AUDIT TRAILS
 
 
-[students in your group]
-[group number 2]
+by 
+	
+    Amari Esmel Phillipe Arnaud
+	Elizabeth Yetunde Abraham
+	Gaius Paul Ekanem
+    Monique Finley
+	Odu, Stephen Anyaku III
+	
+    
+COHORT 18/3: CAPSTONE GROUP 2
+
+
+
 
 [YOUR location]
 
@@ -17,11 +28,11 @@ THE COLLEGIATE OF SCIENCE IN BLOCKCHAIN STUDIES</BR>
 
 CHICAGO, IL.
 
-(C)2023 [your name]
+(C)2023 MONIQUE FINLEY
 
 <HR>
 
-## TABLE OF CONTENTS</BR>
+## TABLE OF CONTENTS
 
 - [] COVER PAGE</br>
 - [] TABLE OF CONTENTS</br>
@@ -237,7 +248,7 @@ For a minimum viable product (MVP) launch, it's crucial to streamline the budget
 
 <HR>
 
-## PROJECT LAUNCH DATE
+## PROJECT LAUNCH DATE: To Be Determined
 ### Best Launch Window:
 
 Choosing the right launch window depends on various factors including market trends, competitor activities, and the readiness of your DApp. However, considering general trends:
