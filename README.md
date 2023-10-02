@@ -15,10 +15,7 @@ by
     
 COHORT 18/3: CAPSTONE GROUP 2
 
-
-
-
-[YOUR location]
+LOUISIANA, USA
 
 A CAPSTONE PROJECT</BR>
 SUBMITTED TO THE FACULTY OF BLOCKCHAIN STUDIES AND ARTIFICIAL</BR>
@@ -168,6 +165,7 @@ national and international scale. We aspire to a future where every citizen can 
 their vote counts, and elections are fair, transparent, and representative. By adopting
 innovative solutions, including blockchain technology, we aim to promote democracy by
 ensuring reliable and equitable elections."
+
 ### Mission
 "Our mission is to use blockchain technology to revolutionize how elections are conducted.
 We aim to provide a transparent and secure platform where electoral processes are recorded in
