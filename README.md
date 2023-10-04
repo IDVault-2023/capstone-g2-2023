@@ -77,11 +77,13 @@ Signatures.
 
 <HR>
 
-CAPSTONE DEFENSE APPROVAL FORM</br>
+## CAPSTONE DEFENSE APPROVAL FORM
+[Capstone Defense Approval Form](/TEAM/Finley/Defense_Forms/)
 
 <HR>
 
-WAIVER REQUEST FORM</br>
+## WAIVER REQUEST FORM
+[Waiver Request Form](/TEAM/Finley/Defense_Forms/)
 
 <HR>
 
@@ -271,7 +273,9 @@ Choosing the right launch window depends on various factors including market tre
 
 <HR>
 
-GITHUB ACCOUNT</br>
+## GITHUB ACCOUNT
+
+[Monique Finley on GitHub](https://github.com/finleyexp/capstone-g2-2023)
 
 <HR>
 
@@ -279,15 +283,20 @@ GITHUB ACCOUNT</br>
 <p>BLKN 205 Blockchain Theory & Practice; BLKN 300 Blockchain Technology & Innovation; CRPT 200 Introduction to Cryptocurrency+; BLKN 215 Applied Cryptography: Private & Public Keys and Digital Signature; BLKN 216 Cryptography and Hash Functions; CRPT 305 Currencies, Tokens, and Stable Coins; BLKN 320 Consensus Mechanisms; BLKN 340 Diversity and Inclusion in the Technology Industry; BLKN 334 Wallet Safety and Security; BLKN 232 Interoperability; BLKN Scalability and Other Challenges; BLKN 420 Decentralized Model and Consensus Mining; BLKN 344/DAPP 312 Enterprise Blockchain; 218 Blockchain Anatomy, Nodes, & Networks; BLKN 194 Independent Research in Blockchain Technology; CRPT 312 Tokenomics: Usage, Utility & Value, BLKN/PROG 346 Repository Systems; BLKN/PROG 350 Althash Blockchain; BLKN/PROG 348 Blockchain Architecture; PROG 100 Introduction to Smart Contracts; HEAL 308 Self-Care and Well-Being in the Digital Age; BLKN 480 Issues & Trends in Blockchain Technology; BLKN 490B Cryptographic Hash Functions; BLKN 490C Private & Public Keys and Digital Signatures; BLKN 342 Imposter Syndrome in Blockchain Technology; BLKN/PROG 352 Ethereum Blockchain; BLKN/COMD 310 Tribalism in Blockchain & Cryptocurrency; BLKN 495 Blockchain Profession; BLKN 311/DAPP 311 Blockchain-enabled Electronic Health Records; TKNS 330 NFT Development; BLKN 356 Self-Sovereign Identity; BLKN 354 Blockchain Leadership & Management; PROG 358 Introduction to Hyperledger Fabric; BLKN 596 Blockchain Career Development; BLKN 492 Directed Research in Blockchain Studies;BLKN 499 Capstone Defense</p>
 <HR>
 
-LADDERDIZED CERTIFICATES & DIPLOMAS</br>
+## LADDERDIZED CERTIFICATES & DIPLOMAS
+
+[Monique Finley's Certificates & Diplomas](TEAM/Finley/Certificates)
 
 <HR>
 
-TRANSCRIPTS OF ACADEMIC RECORDS</br>
+## TRANSCRIPTS OF ACADEMIC RECORDS
+
+[Monique Finley's Certificates & Diplomas](TEAM/Finley/Transcripts)
 
 <HR>
 
-BCE 501 SERIES BLOCKCHAIN CONTINUING EDUCATION</br>
+## BCE 501 SERIES BLOCKCHAIN CONTINUING EDUCATION
+
 
 <HR>
 
