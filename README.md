@@ -1,4 +1,8 @@
-[althash logo]
+<p align="center" width="100%">
+<img src="./img/alt-hash-education.png" alt="Althash Education Logo" width="33%"/>
+</p>
+
+
 
 # IDVAULT
 ## REDUCE VOTER FRAUD INEFFICIENCIES WITH VERIFIABLE AUDIT TRAILS
