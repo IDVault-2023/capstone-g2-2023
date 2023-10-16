@@ -35,17 +35,17 @@ CHICAGO, IL.
 
 ## TABLE OF CONTENTS
 
-- [] COVER PAGE</br>
-- [] TABLE OF CONTENTS</br>
-- [] ABSTRACT</br>
-- [] CAPSTONE DEFENSE APPROVAL FORM</br>
-- [] WAIVER REQUEST FORM</br>
-- [] INTRODUCTION</br>
-- [] PROBLEM STATEMENT</br>
-- [] SOLUTION STATEMENT</br>
-- [] PLATFORM</br>
-- [] PROJECT BUDGET & BUDGET ALLOCATIONS</br>
-- [] PROJECT LAUNCH DATE</br>
+[X] COVER PAGE</br>
+[X] TABLE OF CONTENTS</br>
+[X] ABSTRACT</br>
+[X] CAPSTONE DEFENSE APPROVAL FORM (blanks in your TEAM folder)</br>
+[X] WAIVER REQUEST FORM (blanks in your TEAM folder)</br>
+[X] INTRODUCTION</br>
+[X] PROBLEM STATEMENT</br>
+[X] SOLUTION STATEMENT</br>
+[X] PLATFORM</br>
+[XX] PROJECT BUDGET & BUDGET ALLOCATIONS</br>
+[X] PROJECT LAUNCH DATE</br>
 - [] GITHUB ACCOUNT</br>
 - [] COURSES TAKEN</br>
 - [] LADDERDIZED CERTIFICATES & DIPLOMAS</br>
@@ -53,7 +53,7 @@ CHICAGO, IL.
 - [] BCE 501 SERIES BLOCKCHAIN CONTINUING EDUCATION</br>
 - [] PROFESSIONAL ORGANIZATION</br>
 - [] RESUME</br>
-- [] BLOCKCHAIN OATH OF PROFESSION</br>
+[X] BLOCKCHAIN OATH OF PROFESSION</br>
 
 <HR>
 
@@ -83,6 +83,7 @@ Signatures.
 
 ## CAPSTONE DEFENSE APPROVAL FORM
 [Capstone Defense Approval Form](/TEAM/Finley/Defense_Forms/)
+
 
 <HR>
 
@@ -203,13 +204,114 @@ successful implementation of verifiable audit trails.
 <HR>
 
 ## PLATFORM
+### Platform Name: IDVault
+
+The name "IDVault" for the platform was chosen considering several essential reasons:
+Security and Privacy: The use of the word "Vault" in the name immediately conveys a sense
+of security and data protection. This aligns perfectly with the goal of our project to ensure the
+integrity of electoral data and reduce fraud.
+
+Identification: The prefix "ID" suggests identification, which is crucial in the electoral
+context. It indicates that the "IDVault" platform is dedicated to the secure management of
+electoral identifications.
+
+The name also implies the ability to verify and audit records transparently, which is essential
+for ensuring the integrity of electoral processes. Lastly, "IDVault" is short, simple, and
+memorable, which will facilitate its adoption by voters, electoral authorities, and other
+stakeholders.
+
+The name of the token, "IDVault Token," is a natural extension of the platform's name. It
+provides an identity to the token used within our platform system. Here's why this token name
+is appropriate:
+
+Continuity: The inclusion of the word "Token" after "IDVault" clearly indicates that it is the
+digital currency associated with the platform. This creates logical continuity.
+Trust and Verification: "Vault" suggests security, while "Token" evokes the concept of trust
+in a digital system. Together, "IDVault Token" suggests a trustworthy digital currency that
+can be used to verify and audit electoral records. Just like the platform's name, "IDVault
+Token" is easy to understand for users and stakeholders.
+
+In summary, the platform name "IDVault" and the token name "IDVault Token" are wise
+choices for our synthesis project. They embody security, trust, and verification, which are
+essential elements in achieving our project's goals related to reducing electoral fraud and
+improving the efficiency of electoral processes.
+
+### Platform Blockchain – Overview
+As a Layer 2 Platform, IDVault powered by IDVault Token, 
+
+
+propose running in consortium settings where voting authorities register voters. To initiate the voting process, the voter registers to vote with a governing body. Registering authorities require trustworthy methods for guaranteeing the person who shows up is allowed to be a participating voter. Additionally, the governing authorities need to be able to support the voters user requests. The support channels need methods to help registered users recover lost accounts, prevent account theft, and deal with identity theft attempts. Voters using the platform to make their votes want a method of ensuring that their vote went to their choice and not to some other option. 
+
+An ID account used for voting would have long term implications for security, maintenance, and education. The users would need an easy to use, reliable, secure system   
+
+
+by streamlining and securing the process with transparency and immutability  Rules for registration vary across the globe, many have a minimum identification requirement. 
+
+Political Registrations Example (MVP)
+1. Full Name (First and Last Name / Business Name DBA)
+2. Government ID (Social Security Number / TIN)
+3. Address (Physical Address for political zoning)
+4. Voting Party (If registered)
+
+Choosing Althash and HTMLCoin as the Layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems requiring public accountability and immutability. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.
 
 <p>Choosing Althash and HTMLCoin as the layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.</p>
 
 <HR>
 
 ## PROJECT BUDGET & BUDGET ALLOCATIONS
-For a minimum viable product (MVP) launch, it's crucial to streamline the budget while ensuring essential elements are covered.
+### Proposed Budget #1
+The budget figures for a Blockchain project are justifiable based on the following
+considerations:
+
+    Project Development
+    This cost covers the following (all figures in USD):
+        UI/UX Design : 5 000,00 $
+        Smart Contract Development : 20 000,00 $
+        Front-end Development : 10 000,00 $
+        Back-end Development : 10 000,00 $
+        Integration and testing : 5 000,00 $
+        *Total Development Costs : 50,000*
+
+    Infrastructure Costs
+    This cost covers the following (all figures in USD):
+        Cloud Hosting (AWS) : 10 000,00 $
+        Server Maintenance and Security : 5 000,00 $
+        Domain Registration and SSL Certificate : 100,00 $
+        *Total infrastructure Costs : 15,100*
+
+    Maintenance and Upgrades
+    This cost covers the following (all figures in USD):
+        Bug Fixes and Updates : 5 000,00 $
+        System Upgrades and Enhancements : 10 000,00 $
+        *Total Maintenance and Upgrades : 15,000*
+
+    Operational Costs
+    This cost covers the following (all figures in USD):
+        Employee Salaries (8 staff) : 40 000,00 $
+        Marketing and Promotion : 18 000,00 $
+        Legal and Compliance : 5 000,00 $
+        Miscellaneous Expenses : 6 900,00 $
+        *Total Operational Costs : 69,900*
+
+    Others Costs
+        Contingency Fund (10% of total costs and in USD) : 15,000
+    
+    30.31% 	    $50,000 	Project Development
+    9.15% 		$15,100 	Infrastructure Costs
+    9.09% 		$15,000 	Maintenance and Upgrades
+    42.36% 	    $69,900 	Operational Costs
+    9.09% 		$15,000 	Other Costs
+                *$165,000*
+
+This budget is based on a balanced allocation of resources for development, infrastructure,
+maintenance, operations, and other necessary costs to ensure the success of our project.
+
+
+
+### Proposed Budget #2
+For a minimum viable product (MVP) launch, it's crucial to streamline the budget while ensuring essential 
+infrastructure is covered. This budget 
 
     Salaries:
         Blockchain Developer (x2): $50,000 each
@@ -250,11 +352,15 @@ For a minimum viable product (MVP) launch, it's crucial to streamline the budget
 
     Total Minimal Project Budget (excluding token pay): $274,000
 
-<p>This minimal budget focuses on the core elements necessary for launching an MVP, ensuring that key roles are adequately compensated, essential infrastructure is in place, basic operational needs are met, and a modest marketing effort is executed. This budget allows for a lean and efficient MVP launch while maintaining financial prudence. Adjustments can be made based on specific circumstances and priorities.</p>
+<p>This budget focuses on the core elements necessary for launching an MVP, ensuring that key roles are adequately compensated, essential infrastructure is in place, basic operational needs are met, and a modest marketing effort is executed. This budget allows for a lean and efficient MVP launch while maintaining financial prudence. Adjustments can be made based on specific circumstances and priorities.</p>
+
+NOTE: Our two budgets have a range of $165,000 to $274,000. The main difference appears in the number of staff and the amount of compensation they receive. 
 
 <HR>
 
-## PROJECT LAUNCH DATE: To Be Determined
+## PROJECT LAUNCH DATE: 
+
+To Be Determined
 ### Best Launch Window:
 
 Choosing the right launch window depends on various factors including market trends, competitor activities, and the readiness of your DApp. However, considering general trends:
@@ -280,6 +386,7 @@ Choosing the right launch window depends on various factors including market tre
 ## GITHUB ACCOUNT
 
 [Monique Finley on GitHub](https://github.com/finleyexp/capstone-g2-2023)
+Replace with your link.
 
 <HR>
 
@@ -290,17 +397,21 @@ Choosing the right launch window depends on various factors including market tre
 ## LADDERDIZED CERTIFICATES & DIPLOMAS
 
 [Monique Finley's Certificates & Diplomas](TEAM/Finley/Certificates)
+Replace with your link.
 
 <HR>
 
 ## TRANSCRIPTS OF ACADEMIC RECORDS
 
 [Monique Finley's Certificates & Diplomas](TEAM/Finley/Transcripts)
+Replace with your link.
 
 <HR>
 
-## BCE 501 SERIES BLOCKCHAIN CONTINUING EDUCATION
+## BCE 501 SERIES Essays BLOCKCHAIN CONTINUING EDUCATION
 
+[Monique Finley's 501 Series Essays](TEAM/Finley/501_Series_Essays)
+Replace with your link.
 
 <HR>
 
@@ -312,10 +423,15 @@ Choosing the right launch window depends on various factors including market tre
 
 ## RESUME
 
+[Monique Finley's Resume](TEAM/Finley/Resume)
+Replace with your link.
+
 <HR>
 
 ## BLOCKCHAIN OATH OF PROFESSION
 
 <p>In the realm of blockchain, I pledge to champion integrity, transparency, and security. My commitment is to conduct myself with unwavering honesty, prioritize open-source development, and ensure the robust security of blockchain networks. Embracing innovation and continuous learning, I aim to contribute to the evolution of blockchain technology. Inclusivity guides my actions as I strive to create a diverse and accessible blockchain community. With a focus on social responsibility, I consider the broader impact of blockchain applications and actively seek collaboration to foster a shared vision within the blockchain ecosystem.</p>
+
+Replace with your pledge.
 
 <HR>
