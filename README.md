@@ -59,20 +59,8 @@ CHICAGO, IL.
 
 ## ABSTRACT</br>
 
-<p>This capstone research proposal explores the use of blockchain technology as a solution to
-mitigate electoral fraud and inefficiencies in the electoral process. Blockchain offers an
-innovative perspective by providing verifiable audit trails, enabling immediate and
-independent verification of electoral records. The fundamental features of blockchain, such as
-decentralization and immutability, have the potential to radically transform traditional
-electoral auditing practices. This research will analyze in detail the advantages and
-disadvantages of adopting blockchain for electoral audits, highlighting elements such as
-transparency, immutability, and distributed consensus. Exploring smart contracts and digital
-signatures will be at the core of our study, aiming to strengthen audit procedures and ensure
-the reliability of electoral records. This study will combine qualitative and quantitative
-research approaches, including literature analysis, case studies, and interviews with domain
-experts. The ultimate goal of this research is to provide a comprehensive understanding of
-how blockchain integration can enhance the efficiency of the electoral process and the
-accuracy of results, thereby contributing to trust in the integrity of elections. </p>
+<p>This capstone research proposal explores the use of blockchain technology as a solution to mitigate digital identity inefficiencies. Finding its first application in the electoral process, the solution deploys blockchain technology in solving issues surrounding electoral fraud and inefficiencies. Blockchain offers an innovative perspective by providing verifiable audit trails, enabling immediate and independent verification of electoral records. The fundamental features of blockchain, such as decentralization and immutability, have the potential to radically transform traditional electoral auditing practices. This research will analyze in detail the advantages and disadvantages of adopting blockchain for electoral audits, highlighting elements such as transparency, immutability, and distributed consensus. Exploring smart contracts and digital signatures will be at the core of our study, aiming to strengthen audit procedures and ensure the reliability of electoral records. This study will combine qualitative and quantitative research approaches, including literature analysis, case studies, and interviews with domain experts. The ultimate goal of this research is to provide a comprehensive understanding of how blockchain integration can enhance the efficiency of the electoral process and the accuracy of results, thereby contributing to trust in the integrity of elections.</p>
+
 
 ### Keywords: 
 Electoral Fraud, Electoral Inefficiencies, Audit, Blockchain Technology, Record
@@ -95,90 +83,39 @@ Replace with your name and link.
 
 ## INTRODUCTION
 
-<p>Electoral fraud and inefficiencies in the electoral process pose significant challenges to
-modern democracy. In an increasingly digitized world, it is imperative to find innovative and
-reliable ways to ensure the integrity and transparency of elections. It is in this context that our
-synthesis project, titled "Reduce Voter Fraud Inefficiencies with Verifiable Audit Trails," takes shape.</p>
-<p>Blockchain technology has already proven its effectiveness in various fields, including secure
-and transparent management of financial transactions. In a traditional electoral process,
-inefficiencies and fraud risks persist because auditors often rely on third parties to verify the
-accuracy of records. This approach can be costly, prone to human errors, and potentially
-subject to manipulation.</p>
-<p>Blockchain offers a revolutionary alternative. It allows direct verification of records from
-their creation, eliminating the need for third parties and significantly reducing the risk of
-human error or fraud. Furthermore, it offers the possibility of instant verification, enabling the
-identification and prevention of electoral fraud faster than ever before.</p>
-<p>In this project, we will explore how blockchain technology can be implemented to ensure fair,
-transparent, and efficient elections. We will examine the advantages of blockchain for
-electoral processes and identify the challenges that must be overcome to fully leverage its
-potential.</p>
-<p>We firmly believe that this synthesis project can make a significant contribution to democracy
-by strengthening citizens' trust in the electoral process. By providing a comprehensive
-overview of blockchain's potential for electoral auditing, we hope to assist key stakeholders,
-including electoral authorities and citizens, in understanding the benefits of this technology
-and developing strategies to ensure fair and verifiable elections.</p>
+<p>Electoral fraud and inefficiencies in the electoral process pose significant challenges to modern democracy. In an increasingly digitized world, it is imperative to find innovative and reliable ways to ensure the integrity and transparency of elections. It is in this context that our synthesis project, titled "Reduce Voter Fraud Inefficiencies with Verifiable Audit Trails," takes shape. Blockchain technology has already proven its effectiveness in various fields, including secure and transparent management of financial transactions. In a traditional electoral process, inefficiencies and fraud risks persist because auditors often rely on third parties to verify the accuracy of records. This approach can be costly, prone to human errors, and potentially subject to manipulation.</p>
+<p>Blockchain offers a revolutionary alternative. It allows direct verification of records from their creation, eliminating the need for third parties and significantly reducing the risk of human error or fraud. Furthermore, it offers the possibility of instant verification, enabling the identification and prevention of electoral fraud faster than ever before. In this project, we will explore how blockchain technology can be implemented to ensure fair, transparent, and efficient elections. We will examine the advantages of blockchain for electoral processes and identify the challenges that must be overcome to fully leverage its potential. We firmly believe that this synthesis project can make a significant contribution to democracy by strengthening citizens' trust in the electoral process. By providing a comprehensive overview of blockchain's potential for electoral auditing, we hope to assist key stakeholders, including electoral authorities and citizens, in understanding the benefits of this technology and developing strategies to ensure fair and verifiable elections.</p>
 
 <HR>
 
 ## PROBLEM STATEMENT
 
-<p>Our synthesis project, titled "Reduce Voter Fraud and Inefficiencies Through Verifiable
-Audit Trails," stems from the observation that current electoral processes are susceptible to
-fraud and inefficiencies due to insufficient trust in existing verification systems. Electoral
-fraud and inefficiencies in the electoral process undermine citizens' confidence in the
-democratic system. These issues can lead to non-representative outcomes and widespread
-mistrust, threatening the stability of governments and the legitimacy of elections. It is
-imperative to ensure the integrity and efficiency of the electoral process to maintain
-democracy.</p>
-<p>Stakeholders affected by this issue include voters, electoral bodies responsible for organizing
-elections, political parties participating in polls, as well as electoral observers and civil society
-monitoring elections. All these stakeholders have a direct interest in ensuring that elections
-are fair, transparent, and efficient. While seeking to address this problem, it is essential to
-ensure that the proposed solutions do not introduce new barriers to electoral participation and
-guarantee equal opportunities for all voters. The principles of transparency, fairness, and trust
-in the electoral process must be upheld.</p>
-<p>Our project aims to explore and propose solutions based on verifiable audit trails to reduce
-electoral fraud and inefficiencies. This could include the use of technologies such as
-blockchain to secure and make transparent the electoral process, the implementation of
-mechanisms for vote verifiability, voter education on these new technologies, and the
-involvement of independent organizations in auditing the electoral process. These approaches
-will help build trust in elections and ensure fairer and more representative results.</p>
-
+<p>Our synthesis project, titled "Reduce Voter Fraud and Inefficiencies Through Verifiable Audit Trails," stems from the observation that current electoral processes are susceptible to fraud and inefficiencies due to insufficient trust in existing verification systems. Electoral fraud and inefficiencies in the electoral process undermine citizens' confidence in the democratic system. These issues can lead to non-representative outcomes and widespread mistrust, threatening the stability of governments and the legitimacy of elections. It is imperative to ensure the integrity and efficiency of the electoral process to maintain democracy. Stakeholders affected by this issue include voters, electoral bodies responsible for organizing elections, political parties participating in polls, as well as electoral observers and civil society monitoring elections. All these stakeholders have a direct interest in ensuring that elections are fair, transparent, and efficient. While seeking to address this problem, it is essential to ensure that the proposed solutions do not introduce new barriers to electoral participation and guarantee equal opportunities for all voters. The principles of transparency, fairness, and trust in the electoral process must be upheld. Our project aims to explore and propose solutions based on verifiable audit trails to reduce electoral fraud and inefficiencies. This could include the use of technologies such as blockchain to secure and make transparent the electoral process, the implementation of mechanisms for vote verifiability, voter education on these new technologies, and the involvement of independent organizations in auditing the electoral process. These approaches will help build trust in elections and ensure fairer and more representative results.</p>
 
 <HR>
 
 ## SOLUTION STATEMENT
-<p>To address the problem of electoral fraud and inefficiencies in the electoral process, our
-solution will rely on verifiable audit trails, building upon the approach proposed in the project
-titled "Reduce Voter Fraud Inefficiencies with Verifiable Audit Trails." This will ensure a more
-transparent, efficient, and secure electoral process.</p>
-<p>We propose adopting blockchain technology to secure and make transparent the electoral
-process, just as it is used for financial and non-financial records in the previous project.
-Blockchain will ensure the integrity of electoral data by recording each vote in an immutable
-and transparent manner. We will also explore the use of smart contracts and digital signatures to strengthen the audit
-procedure.</p>
-<p>The ultimate goal of our research is to provide a comprehensive understanding of how
-blockchain can transform the electoral process, increase efficiency, accuracy, and trust in
-electoral records keeping. This approach will contribute to the advancement of electoral
-auditing practices, thus strengthening democracy by reducing electoral fraud and improving
-the efficiency of elections.</p>
+<p>To address the problem of electoral fraud and inefficiencies in the electoral process, our solution will rely on verifiable audit trails, building upon the approach proposed in the project titled "Reduce Voter Fraud Inefficiencies with Verifiable Audit Trails." This will ensure a more transparent, efficient, and secure electoral process. We propose adopting blockchain technology to secure and make transparent the electoral
+process, just as it is used for financial and non-financial records in the previous project. Blockchain will ensure the integrity of electoral data by recording each vote in an immutable and transparent manner. We will also explore the use of smart contracts and digital signatures to strengthen the audit procedure.</p>
+<p>The ultimate goal of our research is to provide a comprehensive understanding of how blockchain can transform the electoral process, increase efficiency, accuracy, and trust in electoral records keeping. This approach will contribute to the advancement of electoral auditing practices, thus strengthening democracy by reducing electoral fraud and improving the efficiency of elections.</p>
+
+### Proposed Solutions
+Building on existing structures, the Unique ID (UID) of voters which could be students' registration number in their respective schools, or Voter Identification Number (VIN) and accompanying data of citizens in places where there's already some structure around the voter identification will be used as the deriving data for their private keys which will generate multiple random public keys that'll be used to cast votes. On election day, based on the accompanying data which specifies the polling unit, ward, local government or district, and state of the voter, a token for each poll to be cast is sent to the wallet of the voter to be deposited into the corresponding wallet address for their candidate's political party and the total amount of tokens sent to a political party's wallet for a particular poll is the total number of votes they got. The tokens in this case will only be sent to the voter's wallet after the log into their wallet with their biometric the same way their biometric data will be used to accredit them at their polling unit before they cast their votes.
+
+### Benefits and Drawbacks
+The benefits here outweigh the drawbacks regardless of the legitimate viewpoint and will be looked at side-by-side. Making the electoral process blockchain based makes it possible for citizens to access and monitor election results in real-time on the blockchain explorer. The fact that election results can now be monitored in real-time, the possibility of hijacking and altering election results before they make it to election collation centres. As the younger generation increasingly gets less interested in nation politics, they tend to rather not go through the stress of leaving their houses and trekking to their polling unit to vote on election days, especially when the political climate seems like it's not going to change in their favour, the option of being able to vote from the comfort of their home is a welcome development. It gives them a way to participate in the electoral process within their comfort zone.
+
+The multiple random public keys ensure proper anonymity due to its inherent inability to be reverse-engineered, and the public keys only last a limited time so they can't be used to vote in two separate occasions and thus, can't be cracked by social engineering. If most of the population chooses to vote from the comfort of their homes, malicious entities that disrupt the electoral processes by snatching ballot boxes and destroying other election materials will have less to destroy and thus cause little to no disruptions to the electoral process because people could simply switch to their devices when such disruptions happen and their votes will still count. The cost of election disruption will outweigh the benefits by far that it'll discourage thuggery. Efforts would have to be changed to DDOS attacks and cybersecurity incident plans would still need to be created by each election authority.
+
+An obvious drawback is the fact that not everyone has access to a smartphone or internet service and so full blockchain-based elections can't work. To combat that, the elections will still happen like normal but the verification and accreditation of voters will happen using blockchain technology so that it can be synchronised with the database of voters, while the mobile extension acts as an auxiliary means of voting until internet services are available everywhere. The possibility of two (2) options for the electoral process raises another challenge which is the possibility of "double voting" but the synchronised database helps tackle that. Once voters are accredited on their devices by logging into their wallets using their UID, they will not be able to be accredited by the electoral officer at their polling units because it'll show that they've already been cleared to vote on their device. Same applies if they're accredited by the electoral officer at their polling units and then they try to login on their device to cast a second vote, they'd be able to login but no voting tokens will be sent to them.
+
 
 ## VISION, MISSION, GOALS, AND OBJECTIVES
 ### Vision
-"Our vision is to become a key player in combating electoral fraud and inefficiencies by
-introducing verifiable audit trails to enhance trust and integrity in electoral processes on a
-national and international scale. We aspire to a future where every citizen can be certain that
-their vote counts, and elections are fair, transparent, and representative. By adopting
-innovative solutions, including blockchain technology, we aim to promote democracy by
-ensuring reliable and equitable elections."
+"Our vision is to become a key player in combating electoral fraud and inefficiencies by introducing verifiable audit trails to enhance trust and integrity in electoral processes on a national and international scale. We aspire to a future where every citizen can be certain that their vote counts, and elections are fair, transparent, and representative. By adopting innovative solutions, including blockchain technology, we aim to promote democracy by ensuring reliable and equitable elections."
 
 ### Mission
-"Our mission is to use blockchain technology to revolutionize how elections are conducted.
-We aim to provide a transparent and secure platform where electoral processes are recorded in
-an immutable and verifiable manner, ensuring trust and integrity in the democratic process.
-Capitalizing on the immutability and transparency of blockchain, we empower citizens with
-independent electoral participation and inviolable auditing. Our goal is to strengthen
-democracy by ensuring fair, transparent, and representative elections for all."
+"Our mission is to use blockchain technology to revolutionize how elections are conducted. We aim to provide a transparent and secure platform where electoral processes are recorded in an immutable and verifiable manner, ensuring trust and integrity in the democratic process. Capitalizing on the immutability and transparency of blockchain, we empower citizens with independent electoral participation and inviolable auditing. Our goal is to strengthen democracy by ensuring fair, transparent, and representative elections for all."
 
 ### Goals
 - Streamline electoral processes to ensure fair and transparent elections.
@@ -205,49 +142,32 @@ successful implementation of verifiable audit trails.
 ## PLATFORM
 ### Platform Name: IDVault
 
-The name "IDVault" for the platform was chosen considering several essential reasons.
-Security and Privacy: The use of the word "Vault" in the name immediately conveys a sense
-of security and data protection. This aligns perfectly with the goal of our project to ensure the
-integrity of electoral data and reduce fraud. 
+The name "IDVault" for the platform was chosen considering several essential reasons. Security and Privacy: The use of the word "Vault" in the name immediately conveys a sense of security and data protection. This aligns perfectly with the goal of our project to ensure the integrity of electoral data and reduce fraud. 
 
-Identification: The prefix "ID" suggests identification, which is crucial in the electoral
-context.  It indicates that the "IDVault" platform is dedicated to the secure management of 
-electoral identifications. 
+Identification: The prefix "ID" suggests identification, which is crucial in the electoral context.  It indicates that the "IDVault" platform is dedicated to the secure management of electoral identifications. 
 
-The name also implies the ability to store verified and audited records transparently, which is essential
-for ensuring the integrity of electoral processes. Lastly, "IDVault" is short, simple, and
-memorable, which will facilitate its adoption by voters, electoral authorities, and other
-stakeholders.
+The name also implies the ability to store verified and audited records transparently, which is essential for ensuring the integrity of electoral processes. Lastly, "IDVault" is short, simple, and memorable, which will facilitate its adoption by voters, electoral authorities, and other stakeholders.
 
-The name of the token, "IDVault Token," is a natural extension of the platform's name. It
-provides an identity to the token used within our platform system. Here's why this token name
-is appropriate:
+The name of the token, "IDVault Token," is a natural extension of the platform's name. It provides an identity to the token used within our platform system. Here's why this token name is appropriate:
 
-Continuity: The inclusion of the word "Token" after "IDVault" clearly indicates that it is the
-digital currency associated with the platform. This creates logical continuity.
+Continuity: The inclusion of the word "Token" after "IDVault" clearly indicates that it is the digital currency associated with the platform. This creates logical continuity.
 
-Trust and Verification: "Vault" suggests security, while "Token" evokes the concept of trust
-in a digital system. Together, "IDVault Token" suggests a trustworthy digital currency that
-can be used to verify and audit electoral records. Just like the platform's name, "IDVault
-Token" is easy to understand for users and stakeholders.
+Trust and Verification: "Vault" suggests security, while "Token" evokes the concept of trust in a digital system. Together, "IDVault Token" suggests a trustworthy digital currency that can be used to verify and audit electoral records. Just like the platform's name, "IDVault Token" is easy to understand for users and stakeholders.
 
-In summary, the platform name "IDVault" and the token name "IDVault Token" are wise
-choices for our synthesis project. They embody security, trust, and verification, which are
-essential elements in achieving our project's goals related to reducing electoral fraud and
-improving the efficiency of electoral processes.
+In summary, the platform name "IDVault" and the token name "IDVault Token" are wise choices for our synthesis project. They embody security, trust, and verification, which are essential elements in achieving our project's goals related to reducing electoral fraud and improving the efficiency of electoral processes.
 
 ### Platform Blockchain – Overview
 <p>IDVault, as a Layer 2 platform powered by the IDVault Token, our users would experience significantly lowered transaction fees reducing government election costs, election officials would access programmable features via smart contracts enabling the standardization and templating of election ballot designs, and be independently verifiable by any voter that wanted to verify their own vote. While running on a Layer 1 platform like Althash, we see the increased transparency available in publically maintained blockchains, can secure election results to a public chain, and enable publically auditable and immutable records. We also keep the ability for independent verifiers to run their own blockchain nodes.</p>
 
 <p>To initiate the voting process, the voter registers to vote with a governing body. Registering authorities require trustworthy methods for guaranteeing the person who shows up is allowed to be a participating voter. The governing authorities need to be able to support the voters' user requests. The support channels need methods to help registered users recover lost accounts, prevent account theft, and deal with identity theft attempts. Voters using the platform to make their votes will want a method of ensuring that their vote went to their choice and not to some other option. Essentially, this is an ID account used for voting as such it would have long term implications for security, maintenance, and education.</p>
 
-#### Political Registrations Example (MVP)
+### Political Registrations Example
 1. Full Name (First and Last Name / Business Name DBA)
-2. Government ID (Social Security Number / TIN)
+2. Government ID (Unique Identifier)
 3. Address (Physical Address for political zoning)
 4. Voting Party (If registered)
 
-<p>Rules for voter registration vary across the globe, many have a minimum identification requirement. Any blockchain ID solution should meet these minimum requirements, while also allowing election authorities to design elections based on the rules of their districts. Voters must be able to easily use the system by experiencing little to no transition difficulties. The voter wants to keep their identity safe, to know that their vote is correctly cast, and to keep their identity anonymous.</p>
+<p>Rules for voter registration vary across the globe, many have a minimum identification requirement. Any blockchain ID solution should meet these minimum requirements, while also allowing election authorities to design elections based on the rules of their districts. Voters must be able to easily use the system by experiencing little to no transition difficulties. The voter wants to keep their identity safe, to know that their vote is correctly cast, and to keep their identity anonymous. Additionally, users will need the ability to change their political parties, update their </p>
 
 <p>Choosing Althash and HTMLCoin as the layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.</p>
 
@@ -354,18 +274,9 @@ NOTE: Our two budgets have a range of $165,000 to $274,000. The main difference 
 
 ## PROJECT LAUNCH DATE: 
 
-<p>The launch date for the project "Reduce Electoral Fraud and Inefficiencies Through
-Verifiable Audit Trails" and its "IDVault" platform could be in July 2024, taking into account
-the necessary planning and development.</p>
-<p>The development of a Minimum Viable Product (MVP) is expected to take approximately 5
-months, starting from July 2024. Testing, validation, and gathering feedback on the MVP
-should take about 1 month, bringing the date to December 2024. Afterward, the team will
-work on developing a scalable and modular platform to meet the specific needs of
-stakeholders.</p>
-<p>Launching the project in July 2024 will allow sufficient time for marketing and awareness
-activities, ensuring that the project reaches its target audience and achieves its objectives.</p>
-<p></p>
-
+<p>The launch date for the project "Reduce Electoral Fraud and Inefficiencies Through Verifiable Audit Trails" and its "IDVault" platform could be in July 2024, taking into account the necessary planning and development.</p>
+<p>The development of a Minimum Viable Product (MVP) is expected to take approximately 5 months, starting from July 2024. Testing, validation, and gathering feedback on the MVP should take about 1 month, bringing the date to December 2024. Afterward, the team will work on developing a scalable and modular platform to meet the specific needs of stakeholders.</p>
+<p>Launching the project in July 2024 will allow sufficient time for marketing and awareness activities, ensuring that the project reaches its target audience and achieves its objectives.</p>
 
 <HR>
 
