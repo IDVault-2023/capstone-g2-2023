@@ -101,6 +101,16 @@ process, just as it is used for financial and non-financial records in the previ
 ### Proposed Solutions
 Building on existing structures, the Unique ID (UID) of voters which could be students' registration number in their respective schools, or Voter Identification Number (VIN) and accompanying data of citizens in places where there's already some structure around the voter identification will be used as the deriving data for their private keys which will generate multiple random public keys that'll be used to cast votes. On election day, based on the accompanying data which specifies the polling unit, ward, local government or district, and state of the voter, a token for each poll to be cast is sent to the wallet of the voter to be deposited into the corresponding wallet address for their candidate's political party and the total amount of tokens sent to a political party's wallet for a particular poll is the total number of votes they got. The tokens in this case will only be sent to the voter's wallet after the log into their wallet with their biometric the same way their biometric data will be used to accredit them at their polling unit before they cast their votes.
 
+<p>To initiate the voting process, the voter registers to vote with a governing body. Registering authorities require trustworthy methods for guaranteeing the person who shows up is allowed to be a participating voter. The governing authorities need to be able to support the voters' user requests, in online interactions, the election authority needs the support channels with methods to help registered users recover lost accounts, prevent account theft, and deal with identity theft attempts. Voters want a method of ensuring their vote went to their choice and not to some other option. A voter ID account would have long term implications for security, maintenance, and education. This would be a long term point of contact between the governing body and the voter, data privacy and security are imperative. One time use public-private key pairings may be part of the underlying technology, regardless the user experience needs to reflect the typical login process.</p>
+
+### Political Registrations Example
+1. Full Name (First and Last Name / Business Name DBA)
+2. Government ID (Unique Identifier)
+3. Address (Physical Address for political zoning)
+4. Voting Party (If registered)
+
+<p>Rules for voter registration vary across the globe, many have a minimum identification requirement. Any blockchain ID solution should meet these minimum requirements, while also allowing election authorities to design elections based on the rules of their districts. Voters must be able to easily use the system by experiencing little to no transition difficulties. The voter wants to keep their identity safe, to know that their vote is correctly cast, and to keep their identity anonymous. Additionally, users will need the ability to change their political parties, update their contact information, and voting qualifications, for instance if they move to a different voting district.</p>
+
 ### Benefits and Drawbacks
 The benefits here outweigh the drawbacks regardless of the legitimate viewpoint and will be looked at side-by-side. Making the electoral process blockchain based makes it possible for citizens to access and monitor election results in real-time on the blockchain explorer. The fact that election results can now be monitored in real-time, the possibility of hijacking and altering election results before they make it to election collation centres. As the younger generation increasingly gets less interested in nation politics, they tend to rather not go through the stress of leaving their houses and trekking to their polling unit to vote on election days, especially when the political climate seems like it's not going to change in their favour, the option of being able to vote from the comfort of their home is a welcome development. It gives them a way to participate in the electoral process within their comfort zone.
 
@@ -206,21 +216,11 @@ The IDVT logo clearly communicates the project's objective, which is to ensure t
 <img text="IDVT LOGO 3: Simple Full" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/5e30551400c967ede3b6bb3d52c81d9d63a0c5cb/logo/IDVT-simple.png" alt="IDVT Simple Full Logo" width="25%" ></i>
 </div>
 <div style="width:50px; height:50px">
-<img text="IDVT LOGO 3: IDVT ICON" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/d0b0f7e625f73af928b50324987cb7f85b240740/logo/IDVT-icon.png"></i>
+<img text="IDVT LOGO 3: IDVT ICON" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/d0b0f7e625f73af928b50324987cb7f85b240740/logo/IDVT-icon.png" ></i>
 </div>
 
-### Platform Blockchain – Overview
+### Platform Blockchain – Exploration
 <p>IDVault, as a Layer 2 platform powered by the IDVault Token, our users would experience significantly lowered transaction fees reducing government election costs, election officials would access programmable features via smart contracts enabling the standardization and templating of election ballot designs, and be independently verifiable by any voter that wanted to verify their own vote. While running on a Layer 1 platform like Althash, we see the increased transparency available in publically maintained blockchains, can secure election results to a public chain, and enable publically auditable and immutable records. We also keep the ability for independent verifiers to run their own blockchain nodes.</p>
-
-<p>To initiate the voting process, the voter registers to vote with a governing body. Registering authorities require trustworthy methods for guaranteeing the person who shows up is allowed to be a participating voter. The governing authorities need to be able to support the voters' user requests. The support channels need methods to help registered users recover lost accounts, prevent account theft, and deal with identity theft attempts. Voters using the platform to make their votes will want a method of ensuring that their vote went to their choice and not to some other option. Essentially, this is an ID account used for voting as such it would have long term implications for security, maintenance, and education.</p>
-
-### Political Registrations Example
-1. Full Name (First and Last Name / Business Name DBA)
-2. Government ID (Unique Identifier)
-3. Address (Physical Address for political zoning)
-4. Voting Party (If registered)
-
-<p>Rules for voter registration vary across the globe, many have a minimum identification requirement. Any blockchain ID solution should meet these minimum requirements, while also allowing election authorities to design elections based on the rules of their districts. Voters must be able to easily use the system by experiencing little to no transition difficulties. The voter wants to keep their identity safe, to know that their vote is correctly cast, and to keep their identity anonymous. Additionally, users will need the ability to change their political parties, update their </p>
 
 <p>Choosing Althash and HTMLCoin as the layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.</p>
 
