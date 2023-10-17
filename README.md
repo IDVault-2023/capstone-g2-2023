@@ -111,6 +111,11 @@ Building on existing structures, the Unique ID (UID) of voters which could be st
 
 <p>Rules for voter registration vary across the globe, many have a minimum identification requirement. Any blockchain ID solution should meet these minimum requirements, while also allowing election authorities to design elections based on the rules of their districts. Voters must be able to easily use the system by experiencing little to no transition difficulties. The voter wants to keep their identity safe, to know that their vote is correctly cast, and to keep their identity anonymous. Additionally, users will need the ability to change their political parties, update their contact information, and voting qualifications, for instance if they move to a different voting district.</p>
 
+### Blockchain Platform as a Service – A Layered Approach
+<p>IDVault, as a Layer 2 platform powered by the IDVault Token, our users would experience significantly lowered transaction fees reducing government election costs, election officials would access programmable features via smart contracts enabling the standardization and templating of election ballot designs, and be independently verifiable by any voter that wanted to verify their own vote. While running on a Layer 1 platform like Althash, we see the increased transparency available in publically maintained blockchains, can secure election results to a public chain, and enable publically auditable and immutable records. We also keep the ability for independent verifiers to run their own blockchain nodes.</p>
+
+<p>Choosing Althash and HTMLCoin as the layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.</p>
+
 ### Benefits and Drawbacks
 The benefits here outweigh the drawbacks regardless of the legitimate viewpoint and will be looked at side-by-side. Making the electoral process blockchain based makes it possible for citizens to access and monitor election results in real-time on the blockchain explorer. The fact that election results can now be monitored in real-time, the possibility of hijacking and altering election results before they make it to election collation centres. As the younger generation increasingly gets less interested in nation politics, they tend to rather not go through the stress of leaving their houses and trekking to their polling unit to vote on election days, especially when the political climate seems like it's not going to change in their favour, the option of being able to vote from the comfort of their home is a welcome development. It gives them a way to participate in the electoral process within their comfort zone.
 
@@ -219,11 +224,6 @@ The IDVT logo clearly communicates the project's objective, which is to ensure t
 <img text="IDVT LOGO 3: IDVT ICON" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/d0b0f7e625f73af928b50324987cb7f85b240740/logo/IDVT-icon.png" ></i>
 </div>
 
-### Platform Blockchain – Exploration
-<p>IDVault, as a Layer 2 platform powered by the IDVault Token, our users would experience significantly lowered transaction fees reducing government election costs, election officials would access programmable features via smart contracts enabling the standardization and templating of election ballot designs, and be independently verifiable by any voter that wanted to verify their own vote. While running on a Layer 1 platform like Althash, we see the increased transparency available in publically maintained blockchains, can secure election results to a public chain, and enable publically auditable and immutable records. We also keep the ability for independent verifiers to run their own blockchain nodes.</p>
-
-<p>Choosing Althash and HTMLCoin as the layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.</p>
-
 <HR>
 
 ## PROJECT BUDGET & BUDGET ALLOCATIONS
@@ -273,8 +273,6 @@ considerations:
 
 This budget is based on a balanced allocation of resources for development, infrastructure,
 maintenance, operations, and other necessary costs to ensure the success of our project.
-
-
 
 ### Proposed Budget #2
 For a minimum viable product (MVP) launch, it's crucial to streamline the budget while ensuring essential 
@@ -384,5 +382,3 @@ Replace with your name and link.
 <p>In the realm of blockchain, I pledge to champion integrity, transparency, and security. My commitment is to conduct myself with unwavering honesty, prioritize open-source development, and ensure the robust security of blockchain networks. Embracing innovation and continuous learning, I aim to contribute to the evolution of blockchain technology. Inclusivity guides my actions as I strive to create a diverse and accessible blockchain community. With a focus on social responsibility, I consider the broader impact of blockchain applications and actively seek collaboration to foster a shared vision within the blockchain ecosystem.</p>
 
 *Replace with your pledge.*
-
-<HR>
