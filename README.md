@@ -96,8 +96,7 @@ Replace with your name and link.
 
 ## SOLUTION STATEMENT
 <p>To address the problem of electoral fraud and inefficiencies in the electoral process, our solution will rely on verifiable audit trails, building upon the approach proposed in the project titled "Reduce Voter Fraud Inefficiencies with Verifiable Audit Trails." This will ensure a more transparent, efficient, and secure electoral process. We propose adopting blockchain technology to secure and make transparent the electoral
-process, just as it is used for financial and non-financial records in the previous project. Blockchain will ensure the integrity of electoral data by recording each vote in an immutable and transparent manner. We will also explore the use of smart contracts and digital signatures to strengthen the audit procedure.</p>
-<p>The ultimate goal of our research is to provide a comprehensive understanding of how blockchain can transform the electoral process, increase efficiency, accuracy, and trust in electoral records keeping. This approach will contribute to the advancement of electoral auditing practices, thus strengthening democracy by reducing electoral fraud and improving the efficiency of elections.</p>
+process, just as it is used for financial and non-financial records in the previous project. Blockchain will ensure the integrity of electoral data by recording each vote in an immutable and transparent manner. We will also explore the use of smart contracts and digital signatures to strengthen the audit procedure. The ultimate goal of our research is to provide a comprehensive understanding of how blockchain can transform the electoral process, increase efficiency, accuracy, and trust in electoral records keeping. This approach will contribute to the advancement of electoral auditing practices, thus strengthening democracy by reducing electoral fraud and improving the efficiency of elections.</p>
 
 ### Proposed Solutions
 Building on existing structures, the Unique ID (UID) of voters which could be students' registration number in their respective schools, or Voter Identification Number (VIN) and accompanying data of citizens in places where there's already some structure around the voter identification will be used as the deriving data for their private keys which will generate multiple random public keys that'll be used to cast votes. On election day, based on the accompanying data which specifies the polling unit, ward, local government or district, and state of the voter, a token for each poll to be cast is sent to the wallet of the voter to be deposited into the corresponding wallet address for their candidate's political party and the total amount of tokens sent to a political party's wallet for a particular poll is the total number of votes they got. The tokens in this case will only be sent to the voter's wallet after the log into their wallet with their biometric the same way their biometric data will be used to accredit them at their polling unit before they cast their votes.
@@ -140,7 +139,9 @@ successful implementation of verifiable audit trails.
 <HR>
 
 ## PLATFORM
+
 ### Platform Name: IDVault
+### Ticker: IDVT
 
 The name "IDVault" for the platform was chosen considering several essential reasons. Security and Privacy: The use of the word "Vault" in the name immediately conveys a sense of security and data protection. This aligns perfectly with the goal of our project to ensure the integrity of electoral data and reduce fraud. 
 
@@ -155,6 +156,53 @@ Continuity: The inclusion of the word "Token" after "IDVault" clearly indicates 
 Trust and Verification: "Vault" suggests security, while "Token" evokes the concept of trust in a digital system. Together, "IDVault Token" suggests a trustworthy digital currency that can be used to verify and audit electoral records. Just like the platform's name, "IDVault Token" is easy to understand for users and stakeholders.
 
 In summary, the platform name "IDVault" and the token name "IDVault Token" are wise choices for our synthesis project. They embody security, trust, and verification, which are essential elements in achieving our project's goals related to reducing electoral fraud and improving the efficiency of electoral processes.
+
+### Platform Token
+#### Ticker: IDVT
+
+The acronym "IDVT" stands for "IDVault Token." This abbreviation has been carefully chosen to reflect the core mission and vision of our project. Here's how it embodies these key ideas:
+
+Electoral Integrity: The prefix "ID" suggests identification, which is crucial in the electoral context. It indicates that "IDVault Token" is specifically designed to ensure the integrity of electoral identifications, thus contributing to the reduction of electoral fraud.
+
+Security and Trust: The word "Vault" immediately inspires a sense of security and data protection. It suggests that this token is a trusted digital currency used in a secure environment to guarantee the authenticity of electoral records.
+
+Transparent Verification: "Token" clearly indicates that it is a digital unit used for transparently verifying and validating electoral records. This underscores the project's objective of enabling independent and instant verification.
+
+Efficiency: By using "IDVT" as the abbreviation, we demonstrate our commitment to improving the efficiency of electoral processes by leveraging blockchain technology for efficient verification. This abbreviation, "IDVT," is more than just a symbol; it embodies the fundamental principles of the project aimed at reducing electoral fraud and enhancing election efficiency through verifiable audit trails. It will serve as a symbol of integrity and trust for voters, electoral authorities, and investors interested in our mission.
+
+### Token Supply: 100,000,000,000 IDVT
+
+The aim of our project is to ensure significant adoption of the "IDVault" platform for independent and efficient verification of electoral records. In line with the recommendation, we propose a maximum of 100,000,000,000 IDVT tokens in our supply chain. Our project aims to revolutionize the way elections are conducted by making the process more transparent and efficient through verifiable audit trails. A substantial token supply is essential to support widespread adoption of the platform, which is necessary to achieve our ambitious vision.
+
+A larger token reserve will encourage active participation from all stakeholders, including voters, electoral authorities, political parties, and election observers. This ensures that the platform will be effectively used to reduce electoral fraud and inefficiencies. A significant token supply will address the growing demand for electoral record verification. As more elections adopt our solution, it will be crucial to have enough tokens to ensure the platform can evolve and adapt rapidly. With a substantial token reserve, we can create a sustainable ecosystem where stakeholders are actively engaged. This will foster long-term trust and
+acceptance of the platform.
+
+It is important to note that a large quantity of tokens does not necessarily mean a dilution of value. The design of our economic and governance system will ensure that the token value remains stable and aligned with the success of the platform. We also plan to reserve a portion of the tokens for educational and awareness initiatives to inform voters about the importance of electoral verification and new technologies. The token reserve will be managed transparently and in compliance with regulations, with governance mechanisms to ensure appropriate use of funds and collective decision-making.
+
+In summary, a maximum of 100,000,000,000 IDVT tokens in our supply chain will support our goal of reducing electoral fraud and inefficiencies through verifiable audit trails by ensuring widespread adoption of the platform and active participation of all stakeholders.
+
+### IDVT Slogan: "Reinventing Electoral Trust"
+This slogan encapsulates IDVT's core value proposition, which is to restore trust in electoral processes through transparent and independent verification. It also communicates the aim to revolutionize how we approach electoral trust, emphasizing the need to reinvent traditional audit and verification methods for a more reliable and efficient electoral system. This slogan reminds stakeholders that with IDVT, we are poised to transform the way elections are conducted, ensuring that every vote counts and every election is fair and honest. It encourages trust, transparency, and integrity, essential elements in combating electoral fraud and
+inefficiencies.
+
+The IDVT logo features a bold and symbolic design that emphasizes trust, security, and integrity in elections. It uses a combination of primarily blue, green, and gold colors. Blue symbolizes stability, green evokes transparency and growth, while gold represents value and reliability. At the center of the logo is an icon that combines elements of a shield and a magnifying glass. This shield represents trust, a key element in the context of electoral integrity, while the magnifying glass represents the careful examination of electoral records. Inside the magnifying glass, you can see a stylized silhouette of a ballot box, highlighting the electoral aspect of our project.
+
+### IDVT Logo
+
+The IDVT logo clearly communicates the project's objective, which is to ensure the integrity of elections through independent and transparent verification. It inspires confidence, security, and growth in the electoral process while harnessing the benefits of blockchain technology to reduce electoral fraud and improve efficiency.
+
+<div style="width:250px; height:250px">
+![IDVT LOGO 1: Ornate Shield](logo/shield-ornate-center.jpg)
+</div>
+<div style="width:250px; height:250px">
+![IDVT LOGO 2: Shield with Rays](logo/shield-idvt-rays.jpg)
+</div>
+<div style="width:250px; height:250px">
+![IDVT LOGO 3: IDVT Simple](logo/IDVT-simple.png)
+</div>
+<div style="width:50px; height:50px">
+![IDVT LOGO 3: IDVT ICON](logo/IDVT-icon.png)
+</div>
 
 ### Platform Blockchain – Overview
 <p>IDVault, as a Layer 2 platform powered by the IDVault Token, our users would experience significantly lowered transaction fees reducing government election costs, election officials would access programmable features via smart contracts enabling the standardization and templating of election ballot designs, and be independently verifiable by any voter that wanted to verify their own vote. While running on a Layer 1 platform like Althash, we see the increased transparency available in publically maintained blockchains, can secure election results to a public chain, and enable publically auditable and immutable records. We also keep the ability for independent verifiers to run their own blockchain nodes.</p>
@@ -174,7 +222,7 @@ In summary, the platform name "IDVault" and the token name "IDVault Token" are w
 <HR>
 
 ## PROJECT BUDGET & BUDGET ALLOCATIONS
-### Proposed Budget #1
+### Proposed Budget #1 
 The budget figures for a Blockchain project are justifiable based on the following
 considerations:
 
