@@ -191,17 +191,22 @@ The IDVT logo features a bold and symbolic design that emphasizes trust, securit
 
 The IDVT logo clearly communicates the project's objective, which is to ensure the integrity of elections through independent and transparent verification. It inspires confidence, security, and growth in the electoral process while harnessing the benefits of blockchain technology to reduce electoral fraud and improve efficiency.
 
+#### Logo 1: Ornate Shield
 <div style="width:250px; height:250px">
-![IDVT LOGO 1: Ornate Shield](logo/shield-ornate-center.jpg)
+<img text="Ornate Center Shield" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/5e30551400c967ede3b6bb3d52c81d9d63a0c5cb/logo/shield-ornate-center.jpg" alt="IDVT Ornate Center Shield" width="25%" ></i>
 </div>
+
+#### Logo 2: Shield with Rays
 <div style="width:250px; height:250px">
-![IDVT LOGO 2: Shield with Rays](logo/shield-idvt-rays.jpg)
+<img text="Shield with Rays" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/5e30551400c967ede3b6bb3d52c81d9d63a0c5cb/logo/shield-idvt-rays.jpg" alt="IDVT Shield with Rays" width="25%" ></i>
 </div>
+
+#### Logo 3: Simple Full
 <div style="width:250px; height:250px">
-![IDVT LOGO 3: IDVT Simple](logo/IDVT-simple.png)
+<img text="IDVT LOGO 3: Simple Full" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/5e30551400c967ede3b6bb3d52c81d9d63a0c5cb/logo/IDVT-simple.png" alt="IDVT Simple Full Logo" width="25%" ></i>
 </div>
 <div style="width:50px; height:50px">
-![IDVT LOGO 3: IDVT ICON](logo/IDVT-icon.png)
+<img text="IDVT LOGO 3: IDVT ICON" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/d0b0f7e625f73af928b50324987cb7f85b240740/logo/IDVT-icon.png"></i>
 </div>
 
 ### Platform Blockchain – Overview
