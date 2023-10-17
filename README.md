@@ -17,9 +17,9 @@ by
 	Odu, Stephen Anyaku III
 	
     
-COHORT 18/3: CAPSTONE GROUP 2
+COHORT 18/3: CAPSTONE GROUP 4
 
-LOUISIANA, USA
+CÔTE D'IVOIRE | NIGERIA | LOUISIANA, USA
 
 A CAPSTONE PROJECT</BR>
 SUBMITTED TO THE FACULTY OF BLOCKCHAIN STUDIES AND ARTIFICIAL</BR>
@@ -29,7 +29,7 @@ THE COLLEGIATE OF SCIENCE IN BLOCKCHAIN STUDIES</BR>
 
 CHICAGO, IL.
 
-(C)2023 MONIQUE FINLEY
+(C)2023 MONIQUE FINLEY [Replace with your name on your paper]
 
 <HR>
 
@@ -46,14 +46,14 @@ CHICAGO, IL.
 [X] PLATFORM</br>
 [XX] PROJECT BUDGET & BUDGET ALLOCATIONS</br>
 [X] PROJECT LAUNCH DATE</br>
-- [] GITHUB ACCOUNT</br>
-- [] COURSES TAKEN</br>
-- [] LADDERDIZED CERTIFICATES & DIPLOMAS</br>
-- [] TRANSCRIPTS OF ACADEMIC RECORDS</br>
-- [] BCE 501 SERIES BLOCKCHAIN CONTINUING EDUCATION</br>
+[XXX] GITHUB ACCOUNT (replace with your link)</br>
+[X] COURSES TAKEN</br>
+[X] LADDERDIZED CERTIFICATES & DIPLOMAS (replace with your link)</br>
+[X] TRANSCRIPTS OF ACADEMIC RECORDS (replace with your link)</br>
+[X] BCE 501 SERIES BLOCKCHAIN CONTINUING EDUCATION (replace with your link)</br>
 - [] PROFESSIONAL ORGANIZATION</br>
 - [] RESUME</br>
-[X] BLOCKCHAIN OATH OF PROFESSION</br>
+[X] BLOCKCHAIN OATH OF PROFESSION (replace with your oath)</br>
 
 <HR>
 
@@ -83,12 +83,13 @@ Signatures.
 
 ## CAPSTONE DEFENSE APPROVAL FORM
 [Capstone Defense Approval Form](/TEAM/Finley/Defense_Forms/)
-
+Replace with your name and link.
 
 <HR>
 
 ## WAIVER REQUEST FORM
 [Waiver Request Form](/TEAM/Finley/Defense_Forms/)
+Replace with your name and link.
 
 <HR>
 
@@ -403,6 +404,7 @@ Replace with your name and link.
 ## PROFESSIONAL ORGANIZATION
 
 <p>ICORBP: International Council of Registered Blockchain Professionals</p>
+Your certificate goes here - TBA.
 
 <HR>
 
