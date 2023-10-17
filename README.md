@@ -264,11 +264,11 @@ considerations:
     Others Costs
         Contingency Fund (10% of total costs and in USD) : 15,000
     
-    30.31% 	    $50,000 	Project Development
-    9.15% 		$15,100 	Infrastructure Costs
-    9.09% 		$15,000 	Maintenance and Upgrades
-    42.36% 	    $69,900 	Operational Costs
-    9.09% 		$15,000 	Other Costs
+    30.31% 	$50,000 	Project Development
+    9.15% 	$15,100 	Infrastructure Costs
+    9.09% 	$15,000 	Maintenance and Upgrades
+    42.36% 	$69,900 	Operational Costs
+    9.09% 	$15,000 	Other Costs
                 *$165,000*
 
 This budget is based on a balanced allocation of resources for development, infrastructure,
