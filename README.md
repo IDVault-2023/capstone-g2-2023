@@ -97,8 +97,7 @@ Signatures.
 <p>Electoral fraud and inefficiencies in the electoral process pose significant challenges to
 modern democracy. In an increasingly digitized world, it is imperative to find innovative and
 reliable ways to ensure the integrity and transparency of elections. It is in this context that our
-synthesis project, titled "Mitigate Electoral Fraud and Inefficiencies Through Verifiable Audit
-Trails," takes shape.</p>
+synthesis project, titled "Reduce Voter Fraud Inefficiencies with Verifiable Audit Trails," takes shape.</p>
 <p>Blockchain technology has already proven its effectiveness in various fields, including secure
 and transparent management of financial transactions. In a traditional electoral process,
 inefficiencies and fraud risks persist because auditors often rely on third parties to verify the
@@ -122,7 +121,7 @@ and developing strategies to ensure fair and verifiable elections.</p>
 
 ## PROBLEM STATEMENT
 
-<p>Our synthesis project, titled "Mitigate Electoral Fraud and Inefficiencies Through Verifiable
+<p>Our synthesis project, titled "Reduce Voter Fraud and Inefficiencies Through Verifiable
 Audit Trails," stems from the observation that current electoral processes are susceptible to
 fraud and inefficiencies due to insufficient trust in existing verification systems. Electoral
 fraud and inefficiencies in the electoral process undermine citizens' confidence in the
@@ -150,13 +149,12 @@ will help build trust in elections and ensure fairer and more representative res
 ## SOLUTION STATEMENT
 <p>To address the problem of electoral fraud and inefficiencies in the electoral process, our
 solution will rely on verifiable audit trails, building upon the approach proposed in the project
-titled "Audit: Records Can Be Instantly Verified Independently." This will ensure a more
+titled "Reduce Voter Fraud Inefficiencies with Verifiable Audit Trails." This will ensure a more
 transparent, efficient, and secure electoral process.</p>
 <p>We propose adopting blockchain technology to secure and make transparent the electoral
 process, just as it is used for financial and non-financial records in the previous project.
 Blockchain will ensure the integrity of electoral data by recording each vote in an immutable
-and transparent manner.</p>
-<p>We will also explore the use of smart contracts and digital signatures to strengthen the audit
+and transparent manner. We will also explore the use of smart contracts and digital signatures to strengthen the audit
 procedure.</p>
 <p>The ultimate goal of our research is to provide a comprehensive understanding of how
 blockchain can transform the electoral process, increase efficiency, accuracy, and trust in
@@ -206,16 +204,16 @@ successful implementation of verifiable audit trails.
 ## PLATFORM
 ### Platform Name: IDVault
 
-The name "IDVault" for the platform was chosen considering several essential reasons:
+The name "IDVault" for the platform was chosen considering several essential reasons.
 Security and Privacy: The use of the word "Vault" in the name immediately conveys a sense
 of security and data protection. This aligns perfectly with the goal of our project to ensure the
-integrity of electoral data and reduce fraud.
+integrity of electoral data and reduce fraud. 
 
 Identification: The prefix "ID" suggests identification, which is crucial in the electoral
-context. It indicates that the "IDVault" platform is dedicated to the secure management of
-electoral identifications.
+context.  It indicates that the "IDVault" platform is dedicated to the secure management of 
+electoral identifications. 
 
-The name also implies the ability to verify and audit records transparently, which is essential
+The name also implies the ability to store verified and audited records transparently, which is essential
 for ensuring the integrity of electoral processes. Lastly, "IDVault" is short, simple, and
 memorable, which will facilitate its adoption by voters, electoral authorities, and other
 stakeholders.
@@ -226,6 +224,7 @@ is appropriate:
 
 Continuity: The inclusion of the word "Token" after "IDVault" clearly indicates that it is the
 digital currency associated with the platform. This creates logical continuity.
+
 Trust and Verification: "Vault" suggests security, while "Token" evokes the concept of trust
 in a digital system. Together, "IDVault Token" suggests a trustworthy digital currency that
 can be used to verify and audit electoral records. Just like the platform's name, "IDVault
@@ -237,23 +236,17 @@ essential elements in achieving our project's goals related to reducing electora
 improving the efficiency of electoral processes.
 
 ### Platform Blockchain – Overview
-As a Layer 2 Platform, IDVault powered by IDVault Token, 
+<p>IDVault, as a Layer 2 platform powered by the IDVault Token, our users would experience significantly lowered transaction fees reducing government election costs, election officials would access programmable features via smart contracts enabling the standardization and templating of election ballot designs, and be independently verifiable by any voter that wanted to verify their own vote. While running on a Layer 1 platform like Althash, we see the increased transparency available in publically maintained blockchains, can secure election results to a public chain, and enable publically auditable and immutable records. We also keep the ability for independent verifiers to run their own blockchain nodes.</p>
 
+<p>To initiate the voting process, the voter registers to vote with a governing body. Registering authorities require trustworthy methods for guaranteeing the person who shows up is allowed to be a participating voter. The governing authorities need to be able to support the voters' user requests. The support channels need methods to help registered users recover lost accounts, prevent account theft, and deal with identity theft attempts. Voters using the platform to make their votes will want a method of ensuring that their vote went to their choice and not to some other option. Essentially, this is an ID account used for voting as such it would have long term implications for security, maintenance, and education.</p>
 
-propose running in consortium settings where voting authorities register voters. To initiate the voting process, the voter registers to vote with a governing body. Registering authorities require trustworthy methods for guaranteeing the person who shows up is allowed to be a participating voter. Additionally, the governing authorities need to be able to support the voters user requests. The support channels need methods to help registered users recover lost accounts, prevent account theft, and deal with identity theft attempts. Voters using the platform to make their votes want a method of ensuring that their vote went to their choice and not to some other option. 
-
-An ID account used for voting would have long term implications for security, maintenance, and education. The users would need an easy to use, reliable, secure system   
-
-
-by streamlining and securing the process with transparency and immutability  Rules for registration vary across the globe, many have a minimum identification requirement. 
-
-Political Registrations Example (MVP)
+#### Political Registrations Example (MVP)
 1. Full Name (First and Last Name / Business Name DBA)
 2. Government ID (Social Security Number / TIN)
 3. Address (Physical Address for political zoning)
 4. Voting Party (If registered)
 
-Choosing Althash and HTMLCoin as the Layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems requiring public accountability and immutability. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.
+<p>Rules for voter registration vary across the globe, many have a minimum identification requirement. Any blockchain ID solution should meet these minimum requirements, while also allowing election authorities to design elections based on the rules of their districts. Voters must be able to easily use the system by experiencing little to no transition difficulties. The voter wants to keep their identity safe, to know that their vote is correctly cast, and to keep their identity anonymous.</p>
 
 <p>Choosing Althash and HTMLCoin as the layer 1 blockchain platform for our project is a strategic decision driven by their unique strengths. Althash offers a robust and secure blockchain infrastructure that is well-suited for the intricate requirements of digital identity and voting systems. Its commitment to decentralized solutions and innovative consensus mechanisms aligns seamlessly with our vision for transparent and tamper-resistant audit trails. HTMLCoin, known for its versatility and user-friendly development environment, complements Althash by providing a flexible platform for the implementation of smart contracts and decentralized applications. Together, this dual-layer approach leverages the strengths of both Althash and HTMLCoin, ensuring a resilient and scalable foundation for our project. The synergy between these platforms not only enhances the security and reliability of our digital identity and voting systems but also fosters an environment conducive to continuous innovation in the evolving landscape of blockchain technology.</p>
 
@@ -360,25 +353,17 @@ NOTE: Our two budgets have a range of $165,000 to $274,000. The main difference 
 
 ## PROJECT LAUNCH DATE: 
 
-To Be Determined
-### Best Launch Window:
-
-Choosing the right launch window depends on various factors including market trends, competitor activities, and the readiness of your DApp. However, considering general trends:
-
-### Optimal Launch Window:
-
-    Avoid Major Holidays: Launching during major holidays may impact user attention and engagement.
-    Consider Industry Events: If there are industry-related events or conferences, launching around these times can attract attention.
-    Research Competitors: Avoid launching too close to major releases from competitors.
-
-### Best Timeframe: Aim for a launch in the months when market activity is generally high and interest in blockchain/DApps is prominent. The first and second quarters of the year often see increased attention.
-
-### Additional Considerations:
-
-    Engage with the Community: Leverage social media and blockchain communities to build anticipation.
-    Beta Testing: Consider a beta release to gather feedback and refine your DApp before the official launch.
-
-### Remember to monitor market conditions, adapt to changes, and be flexible with your launch strategy. The key is to create a buzz around your DApp and ensure that it meets user expectations.
+<p>The launch date for the project "Reduce Electoral Fraud and Inefficiencies Through
+Verifiable Audit Trails" and its "IDVault" platform could be in July 2024, taking into account
+the necessary planning and development.</p>
+<p>The development of a Minimum Viable Product (MVP) is expected to take approximately 5
+months, starting from July 2024. Testing, validation, and gathering feedback on the MVP
+should take about 1 month, bringing the date to December 2024. Afterward, the team will
+work on developing a scalable and modular platform to meet the specific needs of
+stakeholders.</p>
+<p>Launching the project in July 2024 will allow sufficient time for marketing and awareness
+activities, ensuring that the project reaches its target audience and achieves its objectives.</p>
+<p></p>
 
 
 <HR>
@@ -386,7 +371,7 @@ Choosing the right launch window depends on various factors including market tre
 ## GITHUB ACCOUNT
 
 [Monique Finley on GitHub](https://github.com/finleyexp/capstone-g2-2023)
-Replace with your link.
+Replace with your name and link.
 
 <HR>
 
@@ -397,21 +382,21 @@ Replace with your link.
 ## LADDERDIZED CERTIFICATES & DIPLOMAS
 
 [Monique Finley's Certificates & Diplomas](TEAM/Finley/Certificates)
-Replace with your link.
+Replace with your name and link.
 
 <HR>
 
 ## TRANSCRIPTS OF ACADEMIC RECORDS
 
 [Monique Finley's Certificates & Diplomas](TEAM/Finley/Transcripts)
-Replace with your link.
+Replace with your name and link.
 
 <HR>
 
 ## BCE 501 SERIES Essays BLOCKCHAIN CONTINUING EDUCATION
 
 [Monique Finley's 501 Series Essays](TEAM/Finley/501_Series_Essays)
-Replace with your link.
+Replace with your name and link.
 
 <HR>
 
@@ -424,7 +409,7 @@ Replace with your link.
 ## RESUME
 
 [Monique Finley's Resume](TEAM/Finley/Resume)
-Replace with your link.
+Replace with your name and link.
 
 <HR>
 
@@ -432,6 +417,6 @@ Replace with your link.
 
 <p>In the realm of blockchain, I pledge to champion integrity, transparency, and security. My commitment is to conduct myself with unwavering honesty, prioritize open-source development, and ensure the robust security of blockchain networks. Embracing innovation and continuous learning, I aim to contribute to the evolution of blockchain technology. Inclusivity guides my actions as I strive to create a diverse and accessible blockchain community. With a focus on social responsibility, I consider the broader impact of blockchain applications and actively seek collaboration to foster a shared vision within the blockchain ecosystem.</p>
 
-Replace with your pledge.
+*Replace with your pledge.*
 
 <HR>
