@@ -220,10 +220,10 @@ The IDVT logo clearly communicates the project's objective, which is to ensure t
 #### Logo 3: Simple Full-->
 #### IDVT Logo and Icon
 <div style="width:250px; height:250px">
-<img text="IDVT LOGO" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/5e30551400c967ede3b6bb3d52c81d9d63a0c5cb/logo/IDVT-simple.png" alt="IDVT Full Logo" width="25%" ></i>
+<img text="IDVT LOGO" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/5e30551400c967ede3b6bb3d52c81d9d63a0c5cb/logo/IDVT-simple.png" alt="IDVT Full Logo" width="30%" ></i>
 </div>
 <div style="width:50px; height:50px">
-<img text="IDVT LOGO ICON" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/d0b0f7e625f73af928b50324987cb7f85b240740/logo/IDVT-icon.png" ></i>
+<img text="IDVT LOGO ICON" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/d0b0f7e625f73af928b50324987cb7f85b240740/logo/IDVT-icon.png" width="30%" ></i>
 </div>
 
 <HR>
