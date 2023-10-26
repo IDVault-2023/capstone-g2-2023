@@ -35,7 +35,7 @@ The IDVT logo clearly communicates the project's objective, which is to ensure t
 <img text="IDVT LOGO ICON" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/d0b0f7e625f73af928b50324987cb7f85b240740/logo/IDVT-icon.png" ></i>
 </div>
 
-#### IDVT Logo and Icon (Large Logo)
+#### IDVT Logo (Large Logo)
 <div style="width:250px; height:250px">
 <img text="IDVT LOGO" src="https://github.com/IDVault-2023/capstone-g2-2023/blob/09716820baacf91a7502cb59cb447415da18fdac/logo/IDVT-logo-color.png" alt="IDVT Full Logo" width="40%" ></i>
 </div>
