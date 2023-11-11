@@ -1,8 +1,7 @@
 # ICORBP 501 Series Blockchain Continuing Education 
 
 
-### 501 A: Reflection Essay
-#### What is Cybersecurity Why is it Important in 2023 by Alia Ashraf
+### 501 A: Reflection Essay on What is Cybersecurity Why is it Important in 2023 by Alia Ashraf
 
 In our modern era, the pervasive presence of technology is undeniable. People carry internet access points everywhere, seamlessly connecting to the digital realm. However, the very security measures designed to protect this digital landscape have been repurposed as tools for malicious attacks, unleashing consequences that extend beyond data breaches to the potential destruction of property and even loss of life. In light of these high stakes, the imperative to develop next-generation technologies, such as blockchains, with a central focus on cybersecurity becomes increasingly crucial.
 
@@ -32,8 +31,7 @@ In conclusion, the intersection of blockchain and cybersecurity heralds a new er
 
 <hr>
 
-### 501 B: Reflection Essay
-#### Consensus Mechanisms is Sine Non Qua by Michael Noel
+### 501 B: Reflection Essay on Consensus Mechanisms is Sine Non Qua by Michael Noel
 
 Blockchain projects are intricate ecosystems with diverse consensus algorithms, each playing a crucial role in shaping their functionality and security. The decentralized nature of these projects relies on community consensus algorithms, where participants collectively validate transactions, fostering a democratic and transparent environment.
 
