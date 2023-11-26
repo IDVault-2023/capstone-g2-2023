@@ -51,8 +51,8 @@ CHICAGO, IL.
 [X] LADDERDIZED CERTIFICATES & DIPLOMAS (replace with your link)</br>
 [X] TRANSCRIPTS OF ACADEMIC RECORDS (replace with your link)</br>
 [X] BCE 501 SERIES BLOCKCHAIN CONTINUING EDUCATION (replace with your link)</br>
-- [] PROFESSIONAL ORGANIZATION</br>
-- [] RESUME</br>
+[XX] PROFESSIONAL ORGANIZATION (replace with your organization)</br>
+[XX] RESUME (replace with your resume)</br> 
 [X] BLOCKCHAIN OATH OF PROFESSION (replace with your oath)</br>
 
 <HR>
@@ -71,13 +71,13 @@ Signatures.
 
 ## CAPSTONE DEFENSE APPROVAL FORM
 [Capstone Defense Approval Form](/TEAM/Finley/Defense_Forms/)
-Replace with your name and link.
+Replace with your name and link OR copy of your form.
 
 <HR>
 
 ## WAIVER REQUEST FORM
 [Waiver Request Form](/TEAM/Finley/Defense_Forms/)
-Replace with your name and link.
+Replace with your name and link OR copy of your form.
 
 <HR>
 
@@ -339,8 +339,10 @@ NOTE: Our two budgets have a range of $165,000 to $274,000. The main difference 
 
 <HR>
 
-## GITHUB ACCOUNT
+## PROJECT GITHUB ACCOUNT
+[IDVault 2023 - Capstone @ Althash U](https://github.com/IDVault-2023/capstone-g2-2023)
 
+### Individual Github
 [Monique Finley on GitHub](https://github.com/finleyexp/capstone-g2-2023)
 Replace with your name and link.
 
@@ -353,7 +355,7 @@ Replace with your name and link.
 ## LADDERDIZED CERTIFICATES & DIPLOMAS
 
 [Monique Finley's Certificates & Diplomas](TEAM/Finley/Certificates)
-Replace with your name and link.
+Replace with your certificates and diplomas.
 
 <HR>
 
